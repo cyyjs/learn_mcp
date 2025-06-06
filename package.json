@@ -1,0 +1,24 @@
+{
+  "name": "learn_mcp",
+  "version": "1.0.0",
+  "description": "MCP 学习和练习示例代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "cyyjs",
+    "email": "cyyjs@cyyjs.top"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cyyjs/learn_mcp.git"
+  },
+  "license": "ISC",
+  "packageManager": "pnpm@10.11.1",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "zod": "^3.25.53"
+  }
+}
