@@ -1,3 +1,10 @@
+/*
+ * @Author: cyy
+ * @Date: 2025-06-06 11:56:29
+ * @LastEditors: cyy
+ * @LastEditTime: 2025-06-06 12:26:42
+ * @Description: 客户端调用示例
+ */
 import { Client } from "@modelcontextprotocol/sdk/client/index.js";
 import { StdioClientTransport } from "@modelcontextprotocol/sdk/client/stdio.js";
 
